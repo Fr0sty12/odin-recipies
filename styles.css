@@ -1,0 +1,13 @@
+/* styles.css */
+a {
+  color: coral;
+  text-align: center;
+}
+a:hover {
+  color: brown;
+}
+h1 {
+  color: chartreuse;
+  background-color: black;
+  text-align: center;
+}

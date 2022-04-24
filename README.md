@@ -1,1 +1,3 @@
 # odin-recipies
+
+This project is to solidify some stuff. Not sure yet, assuming something to do with recipies...
